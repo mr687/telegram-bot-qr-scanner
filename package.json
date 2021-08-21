@@ -1,0 +1,18 @@
+{
+  "name": "voocode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./telegram.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-quirc": "^2.3.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "request": "^2.88.2"
+  }
+}
