@@ -11,3 +11,6 @@ $ npm run start
 
 # PUT your telegram token in .env file
 ```
+
+## screenshost
+![Screnshost](screenshot.png)
